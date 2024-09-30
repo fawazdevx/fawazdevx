@@ -13,6 +13,6 @@ I'm a passionate software developer with expertise in various fields:
 💬 Feel free to reach out if you have any questions, need assistance, or just want to chat about technology and software development.
 
 📫 **Email:** oyebodefawaz2020@gmail.com  
-🐦 **Follow me on X:** [@fawazdev_](https://x.com/fawazdev_)
+🐦 **Follow me on X:** [@fawazdev_](https://x.com/fawazdevx_)
 
 Happy Coding! 🚀
