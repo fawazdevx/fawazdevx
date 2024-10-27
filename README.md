@@ -1,3 +1,4 @@
+
 ## 👋 Hi there, I'm Fawaz Oyebode Akanni
 
 I'm a passionate software developer with expertise in various fields:
@@ -13,6 +14,7 @@ I'm a passionate software developer with expertise in various fields:
 💬 Feel free to reach out if you have any questions, need assistance, or just want to chat about technology and software development.
 
 📫 **Email:** oyebodefawaz2020@gmail.com  
-🐦 **Follow me on X:** [@fawazdevx_](https://x.com/fawazdevx_)
+🐦 **Follow me on X:** [@fawazdevx_](https://x.com/fawazdevx_)  
+🔗 **Connect with me on LinkedIn:** [Fawaz Oyebode](https://www.linkedin.com/in/fawazoyebode)
 
 Happy Coding! 🚀
