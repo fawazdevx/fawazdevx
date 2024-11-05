@@ -18,7 +18,7 @@ Exploring new technologies is a never-ending journey. I'm always ready for new c
 Feel free to reach out if you have questions, need assistance, or just want to chat about technology and software development.
 
 📫 **Email:** [oyebodefawaz2020@gmail.com](mailto:oyebodefawaz2020@gmail.com)  
-🐦 **Follow me on X:** [@fawazdevx_](https://x.com/fawaz_devx)  
+🐦 **Follow me on X:** [@fawaz_devx](https://x.com/fawaz_devx)  
 🔗 **Connect with me on LinkedIn:** [Fawaz Oyebode](https://www.linkedin.com/in/fawazoyebode)
 
 ---
