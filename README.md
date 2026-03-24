@@ -21,21 +21,17 @@ Feel free to reach out if you have questions, need assistance, or just want to c
 🐦 **Follow me on X:** [@0xFawazdev](https://x.com/0xFawazdev)  
 🔗 **Connect with me on LinkedIn:** [Fawaz Oyebode](https://www.linkedin.com/in/fawazoyebode)
 
----
 
-### 💻 GitHub Stats
+## 📊 GitHub Stats
+
+> ⚠️ Note: Contributions may appear lower due to private repositories and Web3/off-chain work.
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawazdevx&show_icons=true&theme=radical)
 
-### 🚀 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fawazdevx&theme=radical)
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fawazdevx&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawazdevx&layout=compact&theme=radical)
 
-### 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawazdevx&layout=compact&theme=radical)
-
----
 
 ### 💥 Random Cyberpunk Quote
 > "The future is already here — it’s just not very evenly distributed."  
