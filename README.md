@@ -69,7 +69,7 @@ I'm always excited to discuss technology, collaborate on projects, or share know
 
 ### 🚀 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fawazdevx&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=fawazdevx&theme=radical)
 
 ---
 
