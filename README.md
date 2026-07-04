@@ -55,9 +55,9 @@ Currently exploring:
 I'm always excited to discuss technology, collaborate on projects, or share knowledge. Feel free to reach out!
 
 📫 **Email:** [oyebodefawaz2020@gmail.com](mailto:oyebodefawaz2020@gmail.com)  
-🐦 **Follow me on X:** [@0xFawazdev](https://x.com/0xFawazdev)  
+🐦 **Follow me on X:** [fawazdevx](https://x.com/fawazdevx)  
 🔗 **Connect with me on LinkedIn:** [Fawaz Oyebode](https://www.linkedin.com/in/fawazoyebode)  
-🌐 **Portfolio:** [Coming Soon]
+🌐 **Portfolio:** [fawazoyebode.tech]
 
 ---
 
