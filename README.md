@@ -77,6 +77,15 @@ I'm always excited to discuss technology, collaborate on projects, or share know
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fawazdevx&theme=radical)
 
+<div align="center">
+  <a href="https://commit-history.com/fawazdevx">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/fawazdevx?theme=dark" />
+      <img alt="fawazdevx's commit history" src="https://commit-history.com/embed/fawazdevx" />
+    </picture>
+  </a>
+</div>
+
 ---
 
 ### 📈 Most Used Languages
