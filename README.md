@@ -71,44 +71,6 @@ I enjoy solving real-world problems with technology while continuously learning 
 
 ---
 
-# 📌 Featured Projects
-
-## ⛓️ ChainLearn
-
-A decentralized Learning Management System (LMS) built on blockchain featuring:
-
-- Wallet authentication
-- NFT certificates
-- On-chain progress tracking
-- Web3 rewards
-- Interactive learning
-
----
-
-## 🤖 Nexora
-
-An AI-powered Web3 platform that combines intelligent agents with blockchain technology to enhance decentralized applications and user interactions.
-
----
-
-## 🎮 Unreal Engine Projects
-
-Developing immersive gameplay experiences using Unreal Engine with modern game development workflows.
-
----
-
-## 🛡️ Cybersecurity Tools
-
-Building security-focused utilities, automation tools, and penetration testing solutions.
-
----
-
-## 📡 Telescript Genius
-
-A desktop application built with Python, PyQt, and PySide for generating telecom scripts used to activate and manage 2G, 3G, and 4G LTE services.
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -120,12 +82,6 @@ A desktop application built with Python, PyQt, and PySide for generating telecom
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fawazdevx&layout=compact&theme=radical&langs_count=8)
 
 </div>
-
----
-
-# 📈 Contribution Graph
-
-[![Fawaz's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fawazdevx&theme=react-dark)](https://github.com/fawazdevx)
 
 ---
 
