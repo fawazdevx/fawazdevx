@@ -37,7 +37,6 @@ My primary interests include:
 - ⛓️ Web3 & Blockchain
 - 🛡️ Cybersecurity
 - 🎮 Unreal Engine Game Development
-- ☁️ Cloud Infrastructure & DevOps
 
 I enjoy solving real-world problems with technology while continuously learning and exploring emerging technologies.
 
@@ -66,7 +65,6 @@ I enjoy solving real-world problems with technology while continuously learning 
 - Smart Contract Security
 - Zero-Knowledge Proofs
 - Cryptography
-- Cloud Infrastructure
 - DevOps
 
 ---
@@ -120,9 +118,8 @@ I enjoy solving real-world problems with technology while continuously learning 
 
 - 🔐 Smart Contract Auditing
 - 🧠 Artificial Intelligence
-- ☁️ Cloud Infrastructure
 - ⚡ High Performance Backend Systems
-- 🔒 Offensive & Defensive Cybersecurity
+- 🔒 Offensive Cybersecurity
 - 🌐 Zero-Knowledge Proofs
 - 🎮 Unreal Engine Optimization
 
