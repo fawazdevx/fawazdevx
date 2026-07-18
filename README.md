@@ -81,25 +81,6 @@ I enjoy solving real-world problems with technology while continuously learning 
 
 ---
 
-# 📅 Commit History
-
-<div align="center">
-
-<a href="https://commit-history.com/fawazdevx">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://commit-history.com/embed/fawazdevx?theme=dark"
-    />
-    <img
-      src="https://commit-history.com/embed/fawazdevx"
-      alt="Commit History"
-    />
-  </picture>
-</a>
-
-</div>
-
 ---
 
 # 🌱 Currently Exploring
