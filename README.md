@@ -81,8 +81,6 @@ I enjoy solving real-world problems with technology while continuously learning 
 
 ---
 
----
-
 # 🌱 Currently Exploring
 
 - 🔐 Smart Contract Auditing
