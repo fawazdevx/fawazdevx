@@ -68,11 +68,14 @@ I enjoy solving real-world problems with technology while continuously learning 
 - DevOps
 
 ---
-### 📊 GitHub Analytics ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawazdevx&show_icons=true&theme=radical&count_private=true)
+### 📊 GitHub Analytics
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fawazdevx&show_icons=true&theme=radical&count_private=true)
 ---
-### 🚀 Contribution Streak ![GitHub Streak](https://streak-stats.demolab.com/?user=fawazdevx&theme=radical)
+### 🚀 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=fawazdevx&theme=radical)
 ---
-### 🏆 GitHub Trophies ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fawazdevx&theme=radical)
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=fawazdevx&theme=radical)
 ---
 
 # 🌱 Currently Exploring
