@@ -80,44 +80,26 @@ The financial control layer for AI agents, built on Arc.
 
 ---
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=fawazdevx&theme=radical)
-
----
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fawazdevx/fawazdevx/output/github-snake-dark.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/fawazdevx/fawazdevx/output/github-snake.svg" />
-</picture>
-
-*(Won't render until the GitHub Action below has run at least once — see setup notes.)*
-
----
-
 # 🌱 Currently Exploring
 - 🔐 Smart Contract Auditing
-- 🧠 Artificial Intelligence
 - ⚡ High Performance Backend Systems
 - 🔒 Offensive Cybersecurity
-- 🌐 Zero-Knowledge Proofs
 - 🎮 Unreal Engine Optimization
 
 ---
 
 # 🎯 Goals for 2026
-- Build impactful AI + Web3 products
+- Build impactful AI + Web3 products & blockchain applications
 - Contribute more to open source
 - Publish production-ready developer tools
 - Grow as a cybersecurity engineer
-- Launch more blockchain applications
 - Build high-quality Unreal Engine games
 
 ---
 
 # 💭 Favorite Quotes
 
-> *"The future is already here — it's just not very evenly distributed."*
+> *"The future is already here, it's just not very evenly distributed."*
 > **— William Gibson**
 
 > *"Code is poetry written for machines to execute and humans to understand."*
