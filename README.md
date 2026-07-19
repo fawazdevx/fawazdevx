@@ -7,13 +7,13 @@
     <img src="https://img.shields.io/badge/Email-Contact-9D4EDD?style=for-the-badge&logoColor=white&logo=gmail" />
   </a>
   <a href="https://x.com/fawazdevx">
-    <img src="https://img.shields.io/badge/X-@fawazdevx-141321?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@fawazdevx-9D4EDD?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fawazoyebode">
     <img src="https://img.shields.io/badge/LinkedIn-Fawaz%20Oyebode-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=141321" />
   </a>
   <a href="https://fawazoyebode.tech">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&color=F8D847&logoColor=141321" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&color=9D4EDD&logoColor=141321" />
   </a>
 </p>
 
