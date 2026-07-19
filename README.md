@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:FE428E&height=220&section=header&text=Fawaz+Oyebode+Akanni&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Backend+%7C+Web3+%7C+Cybersecurity+%7C+GameDev&descAlignY=52&descSize=16&descColor=A9FEF7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,100:9D4EDD&height=220&section=header&text=Fawaz+Oyebode+Akanni&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Backend+%7C+Web3+%7C+Cybersecurity+%7C+GameDev&descAlignY=52&descSize=16&descColor=A9FEF7" width="100%"/>
 
 <p>
   <a href="mailto:oyebodefawaz2020@gmail.com">
@@ -65,17 +65,8 @@ I enjoy solving real-world problems with technology while continuously learning 
 
 # 🎯 Featured Projects
 
-### 🎓 ChainLearn
-Decentralized, cyberpunk-themed education platform on the Arc testnet — wallet auth, IPFS-hosted courses, and NFT badge rewards, with a planned native token ($CHN).
-`Solidity` `IPFS` `Arc` `Web3`
-
-### 💸 [Nexora](https://nexorafi.vercel.app)
-The financial control layer for AI agents — a Web3/fintech project built on the Arc chain.
-`Arc` `Fintech` `AI Agents`
-
-### 📦 TradeLink
-Onchain invoice factoring and escrow settlement platform for SME trade finance, built for the Circle/Arc Stablecoins Commerce Stack Challenge — Solidity contracts (InvoiceNFT, EscrowSettlement, CreditPassport), an Express.js backend, and React dashboards.
-`Solidity` `Hardhat` `Express` `React`
+### 💸 [Nexora](https://nexorafi.app)
+The financial control layer for AI agents, built on Arc.
 
 ---
 
@@ -135,7 +126,7 @@ Onchain invoice factoring and escrow settlement platform for SME trade finance, 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:141321&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:240046&height=120&section=footer" width="100%"/>
 
 ⭐ **Thanks for visiting my profile!**
 
