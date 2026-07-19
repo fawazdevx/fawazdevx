@@ -10,16 +10,16 @@
     <img src="https://img.shields.io/badge/X-@fawazdevx-141321?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fawazoyebode">
-    <img src="https://img.shields.io/badge/LinkedIn-Fawaz%20Oyebode-A9FEF7?style=for-the-badge&logo=linkedin&logoColor=141321" />
+    <img src="https://img.shields.io/badge/LinkedIn-Fawaz%20Oyebode-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=141321" />
   </a>
   <a href="https://fawazoyebode.tech">
     <img src="https://img.shields.io/badge/Portfolio-Visit-F8D847?style=for-the-badge&color=F8D847&logoColor=141321" />
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=fawazdevx&style=for-the-badge&color=A9FEF7)
+![](https://komarev.com/ghpvc/?username=fawazdevx&style=for-the-badge&color=9D4EDD)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Web3+Developer;Building+the+Future+with+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Web3+Developer;Building+the+Future+with+Code)](https://git.io/typing-svg)
 
 </div>
 
