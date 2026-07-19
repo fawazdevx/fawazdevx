@@ -17,7 +17,7 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=fawazdevx&style=for-the-badge&color=FE428E)
+![](https://komarev.com/ghpvc/?username=fawazdevx&style=for-the-badge&color=A9FEF7)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=FE428E&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Web3+Developer;Building+the+Future+with+Code)](https://git.io/typing-svg)
 
