@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,100:9D4EDD&height=220&section=header&text=Fawaz+Oyebode+Akanni&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Backend+%7C+Web3+%7C+Cybersecurity+%7C+GameDev&descAlignY=52&descSize=16&descColor=A9FEF7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,100:9D4EDD&height=220&section=header&text=Fawaz+Oyebode&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Backend+%7C+Web3+%7C+Cybersecurity+%7C+GameDev&descAlignY=52&descSize=16&descColor=A9FEF7" width="100%"/>
 
 <p>
   <a href="mailto:oyebodefawaz2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FE428E?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-FE428E?style=for-the-badge&logoColor=white&logo=gmail" />
   </a>
   <a href="https://x.com/fawazdevx">
     <img src="https://img.shields.io/badge/X-@fawazdevx-141321?style=for-the-badge&logo=x&logoColor=white" />
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Fawaz%20Oyebode-A9FEF7?style=for-the-badge&logo=linkedin&logoColor=141321" />
   </a>
   <a href="https://fawazoyebode.tech">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-F8D847?style=for-the-badge&logoColor=141321" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-F8D847?style=for-the-badge&color=F8D847&logoColor=141321" />
   </a>
 </p>
 
@@ -80,6 +80,21 @@ The financial control layer for AI agents, built on Arc.
 
 ---
 
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=fawazdevx&theme=radical)
+
+---
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fawazdevx/fawazdevx/output/github-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/fawazdevx/fawazdevx/output/github-snake.svg" />
+</picture>
+
+*(Won't render until the GitHub Action below has run at least once — see setup notes.)*
+
+---
+
 # 🌱 Currently Exploring
 - 🔐 Smart Contract Auditing
 - ⚡ High Performance Backend Systems
@@ -103,7 +118,7 @@ The financial control layer for AI agents, built on Arc.
 > **— William Gibson**
 
 > *"Code is poetry written for machines to execute and humans to understand."*
-> **— Fawaz Oyebode Akanni**
+> **— Fawaz Oyebode**
 
 ---
 
