@@ -4,7 +4,7 @@
 
 <p>
   <a href="mailto:oyebodefawaz2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FE428E?style=for-the-badge&logoColor=white&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-9D4EDD?style=for-the-badge&logoColor=white&logo=gmail" />
   </a>
   <a href="https://x.com/fawazdevx">
     <img src="https://img.shields.io/badge/X-@fawazdevx-141321?style=for-the-badge&logo=x&logoColor=white" />
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Fawaz%20Oyebode-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=141321" />
   </a>
   <a href="https://fawazoyebode.tech">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-F8D847?style=for-the-badge&color=F8D847&logoColor=141321" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&color=F8D847&logoColor=141321" />
   </a>
 </p>
 
