@@ -6,8 +6,8 @@
   <a href="mailto:oyebodefawaz2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-9D4EDD?style=for-the-badge&logoColor=white&logo=gmail" />
   </a>
-  <a href="https://x.com/fawazdevx">
-    <img src="https://img.shields.io/badge/X-@fawazdevx-9D4EDD?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://x.com/fawazdevs">
+    <img src="https://img.shields.io/badge/X-@fawazdevs-9D4EDD?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fawazoyebode">
     <img src="https://img.shields.io/badge/LinkedIn-Fawaz%20Oyebode-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=141321" />
